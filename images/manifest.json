@@ -1,0 +1,374 @@
+{
+  "Wireless charging pad": {
+    "path": "images/cache/wireless_charging_pad.jpg",
+    "credit": "Photo by Emmanuel Jason Eliphalet (Pexels)"
+  },
+  "Bluetooth tracker tile": {
+    "path": "images/cache/bluetooth_tracker_tile.jpg",
+    "credit": "Photo by Emmanuel Jason Eliphalet (Pexels)"
+  },
+  "Portable phone power bank": {
+    "path": "images/cache/portable_phone_power_bank.jpg",
+    "credit": "Photo by RORRY_ Official (Pexels)"
+  },
+  "USB-C multiport adapter": {
+    "path": "images/cache/usb_c_multiport_adapter.jpg",
+    "credit": "Photo by I'm Zion (Pexels)"
+  },
+  "Compact Bluetooth speaker": {
+    "path": "images/cache/compact_bluetooth_speaker.jpg",
+    "credit": "Photo by I'm Zion (Pexels)"
+  },
+  "Smart LED light strip": {
+    "path": "images/cache/smart_led_light_strip.jpg",
+    "credit": "Photo by Jakub Zerdzicki (Pexels)"
+  },
+  "Cable organizer clips": {
+    "path": "images/cache/cable_organizer_clips.jpg",
+    "credit": "Photo by Andreas N\u00e4slund (Pexels)"
+  },
+  "Webcam privacy cover": {
+    "path": "images/cache/webcam_privacy_cover.jpg",
+    "credit": "Photo by Takeshi Arai (Pexels)"
+  },
+  "Mini tripod for phone": {
+    "path": "images/cache/mini_tripod_for_phone.jpg",
+    "credit": "Photo by Amar  Preciado (Pexels)"
+  },
+  "Wireless earbuds case keychain": {
+    "path": "images/cache/wireless_earbuds_case_keychain.jpg",
+    "credit": "Photo by I'm Zion (Pexels)"
+  },
+  "Portable mini projector": {
+    "path": "images/cache/portable_mini_projector.jpg",
+    "credit": "Photo by Jakub Zerdzicki (Pexels)"
+  },
+  "Smart plug": {
+    "path": "images/cache/smart_plug.jpg",
+    "credit": "Photo by Jakub Zerdzicki (Pexels)"
+  },
+  "Laptop stand riser": {
+    "path": "images/cache/laptop_stand_riser.jpg",
+    "credit": "Photo by Claire  L\u00f3 (Pexels)"
+  },
+  "Phone camera lens kit": {
+    "path": "images/cache/phone_camera_lens_kit.jpg",
+    "credit": "Photo by Adrian Regeci (Pexels)"
+  },
+  "Digital luggage scale": {
+    "path": "images/cache/digital_luggage_scale.jpg",
+    "credit": "Photo by Brett Sayles (Pexels)"
+  },
+  "Monitor riser with storage": {
+    "path": "images/cache/monitor_riser_with_storage.jpg",
+    "credit": "Photo by Pu\u0219ca\u0219 Adryan (Pexels)"
+  },
+  "Ergonomic wrist rest": {
+    "path": "images/cache/ergonomic_wrist_rest.jpg",
+    "credit": "Photo by Alexandra Krainyukhova (Pexels)"
+  },
+  "Desk cable management box": {
+    "path": "images/cache/desk_cable_management_box.jpg",
+    "credit": "Photo by Sirius Df (Pexels)"
+  },
+  "Adjustable laptop stand": {
+    "path": "images/cache/adjustable_laptop_stand.jpg",
+    "credit": "Photo by Kenneth Surillo (Pexels)"
+  },
+  "Ring light for video calls": {
+    "path": "images/cache/ring_light_for_video_calls.jpg",
+    "credit": "Photo by MIKHAIL ANDRSN (Pexels)"
+  },
+  "Desk pad mouse mat": {
+    "path": "images/cache/desk_pad_mouse_mat.jpg",
+    "credit": "Photo by Drew Williams (Pexels)"
+  },
+  "Under-desk footrest": {
+    "path": "images/cache/under_desk_footrest.jpg",
+    "credit": "Photo by The Ghazi (Pexels)"
+  },
+  "USB desk fan": {
+    "path": "images/cache/usb_desk_fan.jpg",
+    "credit": "Photo by Em  Everyday Living (Pexels)"
+  },
+  "Noise-cancelling desktop microphone": {
+    "path": "images/cache/noise_cancelling_desktop_microphone.jpg",
+    "credit": "Photo by FOTEROS (Pexels)"
+  },
+  "Multi-device charging stand": {
+    "path": "images/cache/multi_device_charging_stand.jpg",
+    "credit": "Photo by Steve A Johnson (Pexels)"
+  },
+  "Desktop whiteboard planner": {
+    "path": "images/cache/desktop_whiteboard_planner.jpg",
+    "credit": "Photo by Ph\u01b0\u01a1ng  Tr\u1ea7n (Pexels)"
+  },
+  "Adjustable monitor arm": {
+    "path": "images/cache/adjustable_monitor_arm.jpg",
+    "credit": "Photo by Kenneth Surillo (Pexels)"
+  },
+  "Manual coffee grinder": {
+    "path": "images/cache/manual_coffee_grinder.jpg",
+    "credit": "Photo by Blanca Isela (Pexels)"
+  },
+  "Pour-over coffee dripper": {
+    "path": "images/cache/pour_over_coffee_dripper.jpg",
+    "credit": "Photo by Fuadi Afif (Pexels)"
+  },
+  "Milk frother handheld": {
+    "path": "images/cache/milk_frother_handheld.jpg",
+    "credit": "Photo by Pexels User (Pexels)"
+  },
+  "Insulated travel coffee tumbler": {
+    "path": "images/cache/insulated_travel_coffee_tumbler.jpg",
+    "credit": "Photo by Angel Dim (Pexels)"
+  },
+  "Coffee bean storage canister": {
+    "path": "images/cache/coffee_bean_storage_canister.jpg",
+    "credit": "Photo by Yunus  K\u0131l\u0131\u00e7 (Pexels)"
+  },
+  "Digital coffee scale": {
+    "path": "images/cache/digital_coffee_scale.jpg",
+    "credit": "Photo by Fuadi Afif (Pexels)"
+  },
+  "Reusable coffee filter": {
+    "path": "images/cache/reusable_coffee_filter.jpg",
+    "credit": "Photo by aidin gheshlaghi (Pexels)"
+  },
+  "Cold brew maker pitcher": {
+    "path": "images/cache/cold_brew_maker_pitcher.jpg",
+    "credit": "Photo by SpotwizardLee (Pexels)"
+  },
+  "Espresso tamper set": {
+    "path": "images/cache/espresso_tamper_set.jpg",
+    "credit": "Photo by Khoa V\u00f5 (Pexels)"
+  },
+  "Coffee subscription gift card": {
+    "path": "images/cache/coffee_subscription_gift_card.jpg",
+    "credit": "Photo by Fatih Arslan (Pexels)"
+  },
+  "Smart plug outlet": {
+    "path": "images/cache/smart_plug_outlet.jpg",
+    "credit": "Photo by Jakub Zerdzicki (Pexels)"
+  },
+  "Smart light bulb color changing": {
+    "path": "images/cache/smart_light_bulb_color_changing.jpg",
+    "credit": "Photo by Jakub Zerdzicki (Pexels)"
+  },
+  "Smart video doorbell": {
+    "path": "images/cache/smart_video_doorbell.jpg",
+    "credit": "Photo by Anna Vershinkina (Pexels)"
+  },
+  "Smart motion sensor light": {
+    "path": "images/cache/smart_motion_sensor_light.jpg",
+    "credit": "Photo by Jakub Zerdzicki (Pexels)"
+  },
+  "Smart thermostat sensor": {
+    "path": "images/cache/smart_thermostat_sensor.jpg",
+    "credit": "Photo by Puru Raj (Pexels)"
+  },
+  "Smart water leak detector": {
+    "path": "images/cache/smart_water_leak_detector.jpg",
+    "credit": "Photo by Jill Burrow (Pexels)"
+  },
+  "Smart power strip": {
+    "path": "images/cache/smart_power_strip.jpg",
+    "credit": "Photo by Jakub Zerdzicki (Pexels)"
+  },
+  "Smart smoke detector": {
+    "path": "images/cache/smart_smoke_detector.jpg",
+    "credit": "Photo by Reza Roshan (Pexels)"
+  },
+  "Smart garage door controller": {
+    "path": "images/cache/smart_garage_door_controller.jpg",
+    "credit": "Photo by Mak_ jp (Pexels)"
+  },
+  "Smart humidity sensor": {
+    "path": "images/cache/smart_humidity_sensor.jpg",
+    "credit": "Photo by Puru Raj (Pexels)"
+  },
+  "Retractable USB-C cable": {
+    "path": "images/cache/retractable_usb_c_cable.jpg",
+    "credit": "Photo by Ruben Boekeloo (Pexels)"
+  },
+  "Phone grip stand": {
+    "path": "images/cache/phone_grip_stand.jpg",
+    "credit": "Photo by Mwabonje Ringa (Pexels)"
+  },
+  "Mini Bluetooth tracker": {
+    "path": "images/cache/mini_bluetooth_tracker.jpg",
+    "credit": "Photo by Puru Raj (Pexels)"
+  },
+  "Screen cleaning kit": {
+    "path": "images/cache/screen_cleaning_kit.jpg",
+    "credit": "Photo by Azka Nandya (Pexels)"
+  },
+  "Earbud cleaning pen": {
+    "path": "images/cache/earbud_cleaning_pen.jpg",
+    "credit": "Photo by Sound On (Pexels)"
+  },
+  "Portable SD card reader": {
+    "path": "images/cache/portable_sd_card_reader.jpg",
+    "credit": "Photo by ALOK DAS (Pexels)"
+  },
+  "LED keychain flashlight": {
+    "path": "images/cache/led_keychain_flashlight.jpg",
+    "credit": "Photo by Bich Tran (Pexels)"
+  },
+  "Phone lens cleaning cloth set": {
+    "path": "images/cache/phone_lens_cleaning_cloth_set.jpg",
+    "credit": "Photo by Gabriel  Albino De Jesus (Pexels)"
+  },
+  "Mini power bank keychain": {
+    "path": "images/cache/mini_power_bank_keychain.jpg",
+    "credit": "Photo by RORRY_ Official (Pexels)"
+  },
+  "Cable bite phone charm": {
+    "path": "images/cache/cable_bite_phone_charm.jpg",
+    "credit": "Photo by Steve A Johnson (Pexels)"
+  },
+  "Universal travel adapter": {
+    "path": "images/cache/universal_travel_adapter.jpg",
+    "credit": "Photo by I'm Zion (Pexels)"
+  },
+  "Packing cubes set": {
+    "path": "images/cache/packing_cubes_set.jpg",
+    "credit": "Photo by Ahmet  Kayra (Pexels)"
+  },
+  "Neck pillow travel": {
+    "path": "images/cache/neck_pillow_travel.jpg",
+    "credit": "Photo by Ersan Y\u0131lmaz (Pexels)"
+  },
+  "Portable luggage tracker": {
+    "path": "images/cache/portable_luggage_tracker.jpg",
+    "credit": "Photo by Brett Sayles (Pexels)"
+  },
+  "Compression packing bags": {
+    "path": "images/cache/compression_packing_bags.jpg",
+    "credit": "Photo by Ahmet  Kayra (Pexels)"
+  },
+  "Noise-isolating travel earplugs": {
+    "path": "images/cache/noise_isolating_travel_earplugs.jpg",
+    "credit": "Photo by Yi\u011fit  KARAAL\u0130O\u011eLU (Pexels)"
+  },
+  "Portable door lock travel": {
+    "path": "images/cache/portable_door_lock_travel.jpg",
+    "credit": "Photo by Burak Argun (Pexels)"
+  },
+  "TSA-approved travel bottles": {
+    "path": "images/cache/tsa_approved_travel_bottles.jpg",
+    "credit": "Photo by Yan Krukau (Pexels)"
+  },
+  "Digital luggage scale travel": {
+    "path": "images/cache/digital_luggage_scale_travel.jpg",
+    "credit": "Photo by Brett Sayles (Pexels)"
+  },
+  "Portable charger power bank": {
+    "path": "images/cache/portable_charger_power_bank.jpg",
+    "credit": "Photo by RORRY_ Official (Pexels)"
+  },
+  "Travel document organizer": {
+    "path": "images/cache/travel_document_organizer.jpg",
+    "credit": "Photo by Vlada Karpovich (Pexels)"
+  },
+  "Collapsible travel water bottle": {
+    "path": "images/cache/collapsible_travel_water_bottle.jpg",
+    "credit": "Photo by H\u00e9ctor Berganza (Pexels)"
+  },
+  "Portable blackout curtain travel": {
+    "path": "images/cache/portable_blackout_curtain_travel.jpg",
+    "credit": "Photo by Brigitte Ledermann (Pexels)"
+  },
+  "Anti-theft travel backpack": {
+    "path": "images/cache/anti_theft_travel_backpack.jpg",
+    "credit": "Photo by \u7adf\u50b2 \u6c64 (Pexels)"
+  },
+  "Herb stripper tool": {
+    "path": "images/cache/herb_stripper_tool.jpg",
+    "credit": "Photo by Nikolaeva Nastia (Pexels)"
+  },
+  "Garlic press rocker": {
+    "path": "images/cache/garlic_press_rocker.jpg",
+    "credit": "Photo by Jean-Francois Frenel (Pexels)"
+  },
+  "Silicone food storage bags": {
+    "path": "images/cache/silicone_food_storage_bags.jpg",
+    "credit": "Photo by thAnh nguy\u1ec5n (Pexels)"
+  },
+  "Avocado slicer tool": {
+    "path": "images/cache/avocado_slicer_tool.jpg",
+    "credit": "Photo by Sukrit Advertising (Pexels)"
+  },
+  "Digital kitchen scale": {
+    "path": "images/cache/digital_kitchen_scale.jpg",
+    "credit": "Photo by Fuadi Afif (Pexels)"
+  },
+  "Onion chopper handheld": {
+    "path": "images/cache/onion_chopper_handheld.jpg",
+    "credit": "Photo by J KREATOR (Pexels)"
+  },
+  "Magnetic measuring spoons": {
+    "path": "images/cache/magnetic_measuring_spoons.jpg",
+    "credit": "Photo by Pranjall Kumar (Pexels)"
+  },
+  "Silicone stretch lids": {
+    "path": "images/cache/silicone_stretch_lids.jpg",
+    "credit": "Photo by Ibrahim Plastic Industry ( IPI ) (Pexels)"
+  },
+  "Compact jar opener": {
+    "path": "images/cache/compact_jar_opener.jpg",
+    "credit": "Photo by Boryslav Shoot (Pexels)"
+  },
+  "Collapsible colander": {
+    "path": "images/cache/collapsible_colander.jpg",
+    "credit": "Photo by Murat  Tosun (Pexels)"
+  },
+  "Salad spinner compact": {
+    "path": "images/cache/salad_spinner_compact.jpg",
+    "credit": "Photo by This Life's Illusions (Pexels)"
+  },
+  "Silicone baking mat set": {
+    "path": "images/cache/silicone_baking_mat_set.jpg",
+    "credit": "Photo by Karina Ustiuzhanina (Pexels)"
+  },
+  "Controller charging dock": {
+    "path": "images/cache/controller_charging_dock.jpg",
+    "credit": "Photo by Amar  Preciado (Pexels)"
+  },
+  "Gaming mouse pad extended": {
+    "path": "images/cache/gaming_mouse_pad_extended.jpg",
+    "credit": "Photo by Kasra  Askari (Pexels)"
+  },
+  "RGB LED light strip gaming": {
+    "path": "images/cache/rgb_led_light_strip_gaming.jpg",
+    "credit": "Photo by Kenneth Surillo (Pexels)"
+  },
+  "Headset stand": {
+    "path": "images/cache/headset_stand.jpg",
+    "credit": "Photo by Drew Williams (Pexels)"
+  },
+  "Controller thumb grips": {
+    "path": "images/cache/controller_thumb_grips.jpg",
+    "credit": "Photo by Elizabeth Lizzie (Pexels)"
+  },
+  "Cable management sleeve": {
+    "path": "images/cache/cable_management_sleeve.jpg",
+    "credit": "Photo by Sirius Df (Pexels)"
+  },
+  "Cooling pad for laptop gaming": {
+    "path": "images/cache/cooling_pad_for_laptop_gaming.jpg",
+    "credit": "Photo by Kasra  Askari (Pexels)"
+  },
+  "Webcam for streaming": {
+    "path": "images/cache/webcam_for_streaming.jpg",
+    "credit": "Photo by Damir K (Pexels)"
+  },
+  "Gaming chair cushion": {
+    "path": "images/cache/gaming_chair_cushion.jpg",
+    "credit": "Photo by Abusaiya CLUVENS (Pexels)"
+  },
+  "USB microphone for gaming": {
+    "path": "images/cache/usb_microphone_for_gaming.jpg",
+    "credit": "Photo by FOTEROS (Pexels)"
+  }
+}
