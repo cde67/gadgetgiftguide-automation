@@ -64,6 +64,16 @@ HEAD_FONTS = (
     '<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">'
 )
 
+# Cloudflare Web Analytics (privacy-respecting, no cookies) - added because
+# there was previously no way to tell whether this site gets any traffic at
+# all. Token is tied to the gadgetgiftguide.pages.dev site in the Cloudflare
+# dashboard, not a secret (it only identifies where beacons should count,
+# same as a GA measurement ID).
+ANALYTICS_SNIPPET = (
+    '<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" '
+    'data-cf-beacon=\'{"token": "9b1ee8138c594a00ab9b87528af2d08d"}\'></script>'
+)
+
 
 def load_env():
     env = {}
@@ -159,6 +169,7 @@ def build_guide_page(guide, tag):
   {"".join(rows)}
 </main>
 <footer>{SITE_NAME} &middot; <a href="{SITE_URL}/">More gift guides</a></footer>
+{ANALYTICS_SNIPPET}
 </body>
 </html>
 """
@@ -188,6 +199,7 @@ def build_home_page():
   {cards}
 </main>
 <footer>{SITE_NAME}</footer>
+{ANALYTICS_SNIPPET}
 </body>
 </html>
 """
