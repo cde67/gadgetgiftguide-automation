@@ -41,7 +41,7 @@ STYLE = """
   h2 { font-family: 'Space Grotesk', sans-serif; font-size: 1.3rem; margin: 0 0 4px; }
   .intro { font-size: 1.08rem; color: var(--muted); margin-bottom: 36px; }
   .item { display: flex; gap: 18px; padding: 22px 0; border-bottom: 1px solid var(--border); align-items: flex-start; }
-  .item img { width: 110px; height: 110px; border-radius: 12px; object-fit: cover; flex-shrink: 0; background: var(--border); }
+  .item img, .item .ph { width: 110px; height: 110px; border-radius: 12px; object-fit: cover; flex-shrink: 0; background: var(--border); }
   .item-body { flex: 1; }
   .item-num { display: inline-block; background: var(--accent); color: #fff; font-weight: 700; font-size: 0.8rem;
               width: 24px; height: 24px; border-radius: 50%; text-align: center; line-height: 24px; margin-right: 8px; }
@@ -116,11 +116,16 @@ def build_guide_page(guide, tag):
     rows = []
     for i, item in enumerate(guide["items"], start=1):
         photo_path, _credit = fimg.get_item_image(item["name"])
-        img_html = ""
         if photo_path:
             fname = os.path.basename(photo_path)
             shutil.copyfile(photo_path, os.path.join(IMG_DIR, fname))
             img_html = f'<img src="{SITE_URL}/images/{fname}" alt="{item["name"]}" loading="lazy">'
+        else:
+            # No stock photo cleared relevance review for this item (see
+            # fetch_images.fetch_candidates) - a blank gap here reads as
+            # broken since every other row in the list has a photo, so fall
+            # back to a plain placeholder box instead of an empty slot.
+            img_html = '<div class="ph"></div>'
         rows.append(f"""
         <div class="item">
           {img_html}

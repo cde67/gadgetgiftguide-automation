@@ -103,6 +103,43 @@ def _download_and_tile(url, out_path):
     return True
 
 
+def fetch_candidates(item_text, out_dir, n=6):
+    """Downloads up to n distinct candidate photos for item_text into out_dir
+    (as 0.jpg, 1.jpg, ...) WITHOUT picking one automatically - unlike
+    get_item_image, which silently takes the first search result. That
+    'first result wins' shortcut is what caused real mismatches (e.g. a
+    'Cable management box' search returning an open PC case) since Pexels'
+    top hit for an ambiguous multi-word query is often a lifestyle/action
+    photo or an unrelated object that merely shares a keyword, not an actual
+    product shot of the named item. This instead gathers several candidates
+    across a couple of query phrasings so a human (or an agent looking at
+    the actual images) can pick the one that really shows the item, or
+    reject all of them.
+
+    Returns a list of {path, credit, url} dicts, most-relevant-query-first.
+    """
+    os.makedirs(out_dir, exist_ok=True)
+    queries = [item_text, f"{item_text} product photo", " ".join(item_text.split()[-2:])]
+    seen_urls = set()
+    candidates = []
+    for q in queries:
+        if len(candidates) >= n:
+            break
+        for photo in _search(q, per_page=6):
+            if len(candidates) >= n:
+                break
+            src = photo.get("src", {})
+            img_url = src.get("large") or src.get("medium") or src.get("original")
+            if not img_url or img_url in seen_urls:
+                continue
+            seen_urls.add(img_url)
+            out_path = os.path.join(out_dir, f"{len(candidates)}.jpg")
+            if _download_and_tile(img_url, out_path):
+                credit = f"Photo by {photo.get('photographer', 'a Pexels contributor')} (Pexels)"
+                candidates.append({"path": out_path, "credit": credit, "url": img_url})
+    return candidates
+
+
 def get_item_image(item_text):
     """Returns (local_path_or_None, credit_text_or_None) for an item. Cached
     by item_text so repeated items reuse the same photo across cycles. Pexels

@@ -28,8 +28,7 @@
     "credit": "Photo by Andreas N\u00e4slund (Pexels)"
   },
   "Webcam privacy cover": {
-    "path": "images/cache/webcam_privacy_cover.jpg",
-    "credit": "Photo by Takeshi Arai (Pexels)"
+    "no_image": true
   },
   "Mini tripod for phone": {
     "path": "images/cache/mini_tripod_for_phone.jpg",
@@ -44,8 +43,7 @@
     "credit": "Photo by Jakub Zerdzicki (Pexels)"
   },
   "Smart plug": {
-    "path": "images/cache/smart_plug.jpg",
-    "credit": "Photo by Jakub Zerdzicki (Pexels)"
+    "no_image": true
   },
   "Laptop stand riser": {
     "path": "images/cache/laptop_stand_riser.jpg",
@@ -56,36 +54,29 @@
     "credit": "Photo by Adrian Regeci (Pexels)"
   },
   "Digital luggage scale": {
-    "path": "images/cache/digital_luggage_scale.jpg",
-    "credit": "Photo by Brett Sayles (Pexels)"
+    "no_image": true
   },
   "Monitor riser with storage": {
-    "path": "images/cache/monitor_riser_with_storage.jpg",
-    "credit": "Photo by Pu\u0219ca\u0219 Adryan (Pexels)"
+    "no_image": true
   },
   "Ergonomic wrist rest": {
-    "path": "images/cache/ergonomic_wrist_rest.jpg",
-    "credit": "Photo by Alexandra Krainyukhova (Pexels)"
+    "no_image": true
   },
   "Desk cable management box": {
-    "path": "images/cache/desk_cable_management_box.jpg",
-    "credit": "Photo by Sirius Df (Pexels)"
+    "no_image": true
   },
   "Adjustable laptop stand": {
     "path": "images/cache/adjustable_laptop_stand.jpg",
     "credit": "Photo by Kenneth Surillo (Pexels)"
   },
   "Ring light for video calls": {
-    "path": "images/cache/ring_light_for_video_calls.jpg",
-    "credit": "Photo by MIKHAIL ANDRSN (Pexels)"
+    "no_image": true
   },
   "Desk pad mouse mat": {
-    "path": "images/cache/desk_pad_mouse_mat.jpg",
-    "credit": "Photo by Drew Williams (Pexels)"
+    "no_image": true
   },
   "Under-desk footrest": {
-    "path": "images/cache/under_desk_footrest.jpg",
-    "credit": "Photo by The Ghazi (Pexels)"
+    "no_image": true
   },
   "USB desk fan": {
     "path": "images/cache/usb_desk_fan.jpg",
@@ -96,16 +87,13 @@
     "credit": "Photo by FOTEROS (Pexels)"
   },
   "Multi-device charging stand": {
-    "path": "images/cache/multi_device_charging_stand.jpg",
-    "credit": "Photo by Steve A Johnson (Pexels)"
+    "no_image": true
   },
   "Desktop whiteboard planner": {
-    "path": "images/cache/desktop_whiteboard_planner.jpg",
-    "credit": "Photo by Ph\u01b0\u01a1ng  Tr\u1ea7n (Pexels)"
+    "no_image": true
   },
   "Adjustable monitor arm": {
-    "path": "images/cache/adjustable_monitor_arm.jpg",
-    "credit": "Photo by Kenneth Surillo (Pexels)"
+    "no_image": true
   },
   "Manual coffee grinder": {
     "path": "images/cache/manual_coffee_grinder.jpg",
@@ -156,8 +144,7 @@
     "credit": "Photo by Jakub Zerdzicki (Pexels)"
   },
   "Smart video doorbell": {
-    "path": "images/cache/smart_video_doorbell.jpg",
-    "credit": "Photo by Anna Vershinkina (Pexels)"
+    "no_image": true
   },
   "Smart motion sensor light": {
     "path": "images/cache/smart_motion_sensor_light.jpg",
@@ -176,12 +163,10 @@
     "credit": "Photo by Jakub Zerdzicki (Pexels)"
   },
   "Smart smoke detector": {
-    "path": "images/cache/smart_smoke_detector.jpg",
-    "credit": "Photo by Reza Roshan (Pexels)"
+    "no_image": true
   },
   "Smart garage door controller": {
-    "path": "images/cache/smart_garage_door_controller.jpg",
-    "credit": "Photo by Mak_ jp (Pexels)"
+    "no_image": true
   },
   "Smart humidity sensor": {
     "path": "images/cache/smart_humidity_sensor.jpg",
@@ -200,12 +185,10 @@
     "credit": "Photo by Puru Raj (Pexels)"
   },
   "Screen cleaning kit": {
-    "path": "images/cache/screen_cleaning_kit.jpg",
-    "credit": "Photo by Azka Nandya (Pexels)"
+    "no_image": true
   },
   "Earbud cleaning pen": {
-    "path": "images/cache/earbud_cleaning_pen.jpg",
-    "credit": "Photo by Sound On (Pexels)"
+    "no_image": true
   },
   "Portable SD card reader": {
     "path": "images/cache/portable_sd_card_reader.jpg",
@@ -232,28 +215,22 @@
     "credit": "Photo by I'm Zion (Pexels)"
   },
   "Packing cubes set": {
-    "path": "images/cache/packing_cubes_set.jpg",
-    "credit": "Photo by Ahmet  Kayra (Pexels)"
+    "no_image": true
   },
   "Neck pillow travel": {
-    "path": "images/cache/neck_pillow_travel.jpg",
-    "credit": "Photo by Ersan Y\u0131lmaz (Pexels)"
+    "no_image": true
   },
   "Portable luggage tracker": {
-    "path": "images/cache/portable_luggage_tracker.jpg",
-    "credit": "Photo by Brett Sayles (Pexels)"
+    "no_image": true
   },
   "Compression packing bags": {
-    "path": "images/cache/compression_packing_bags.jpg",
-    "credit": "Photo by Ahmet  Kayra (Pexels)"
+    "no_image": true
   },
   "Noise-isolating travel earplugs": {
-    "path": "images/cache/noise_isolating_travel_earplugs.jpg",
-    "credit": "Photo by Yi\u011fit  KARAAL\u0130O\u011eLU (Pexels)"
+    "no_image": true
   },
   "Portable door lock travel": {
-    "path": "images/cache/portable_door_lock_travel.jpg",
-    "credit": "Photo by Burak Argun (Pexels)"
+    "no_image": true
   },
   "TSA-approved travel bottles": {
     "path": "images/cache/tsa_approved_travel_bottles.jpg",
@@ -280,32 +257,27 @@
     "credit": "Photo by Brigitte Ledermann (Pexels)"
   },
   "Anti-theft travel backpack": {
-    "path": "images/cache/anti_theft_travel_backpack.jpg",
-    "credit": "Photo by \u7adf\u50b2 \u6c64 (Pexels)"
+    "no_image": true
   },
   "Herb stripper tool": {
-    "path": "images/cache/herb_stripper_tool.jpg",
-    "credit": "Photo by Nikolaeva Nastia (Pexels)"
+    "no_image": true
   },
   "Garlic press rocker": {
-    "path": "images/cache/garlic_press_rocker.jpg",
-    "credit": "Photo by Jean-Francois Frenel (Pexels)"
+    "no_image": true
   },
   "Silicone food storage bags": {
     "path": "images/cache/silicone_food_storage_bags.jpg",
     "credit": "Photo by thAnh nguy\u1ec5n (Pexels)"
   },
   "Avocado slicer tool": {
-    "path": "images/cache/avocado_slicer_tool.jpg",
-    "credit": "Photo by Sukrit Advertising (Pexels)"
+    "no_image": true
   },
   "Digital kitchen scale": {
     "path": "images/cache/digital_kitchen_scale.jpg",
     "credit": "Photo by Fuadi Afif (Pexels)"
   },
   "Onion chopper handheld": {
-    "path": "images/cache/onion_chopper_handheld.jpg",
-    "credit": "Photo by J KREATOR (Pexels)"
+    "no_image": true
   },
   "Magnetic measuring spoons": {
     "path": "images/cache/magnetic_measuring_spoons.jpg",
@@ -320,8 +292,7 @@
     "credit": "Photo by Boryslav Shoot (Pexels)"
   },
   "Collapsible colander": {
-    "path": "images/cache/collapsible_colander.jpg",
-    "credit": "Photo by Murat  Tosun (Pexels)"
+    "no_image": true
   },
   "Salad spinner compact": {
     "path": "images/cache/salad_spinner_compact.jpg",
@@ -336,8 +307,7 @@
     "credit": "Photo by Amar  Preciado (Pexels)"
   },
   "Gaming mouse pad extended": {
-    "path": "images/cache/gaming_mouse_pad_extended.jpg",
-    "credit": "Photo by Kasra  Askari (Pexels)"
+    "no_image": true
   },
   "RGB LED light strip gaming": {
     "path": "images/cache/rgb_led_light_strip_gaming.jpg",
@@ -352,12 +322,10 @@
     "credit": "Photo by Elizabeth Lizzie (Pexels)"
   },
   "Cable management sleeve": {
-    "path": "images/cache/cable_management_sleeve.jpg",
-    "credit": "Photo by Sirius Df (Pexels)"
+    "no_image": true
   },
   "Cooling pad for laptop gaming": {
-    "path": "images/cache/cooling_pad_for_laptop_gaming.jpg",
-    "credit": "Photo by Kasra  Askari (Pexels)"
+    "no_image": true
   },
   "Webcam for streaming": {
     "path": "images/cache/webcam_for_streaming.jpg",
