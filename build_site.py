@@ -21,7 +21,7 @@ IMG_DIR = os.path.join(DOCS_DIR, "images")
 
 SITE_NAME = "Gadget Gift Guide"
 SITE_TAGLINE = "Practical, no-nonsense gift picks - the ones that actually get used"
-SITE_URL = "https://cde67.github.io/gadgetgiftguide-automation"
+SITE_URL = "https://gadgetgiftguide.pages.dev"
 PLACEHOLDER_TAG = "PLACEHOLDER-20"
 
 STYLE = """
@@ -83,7 +83,7 @@ def amazon_url(item, tag):
 
 def site_header():
     return f"""<header class="site"><div class="wrap">
-      <a class="brand" href="/">{SITE_NAME}</a>
+      <a class="brand" href="{SITE_URL}/">{SITE_NAME}</a>
       <span class="tagline">{SITE_TAGLINE}</span>
     </div></header>"""
 
@@ -100,7 +100,7 @@ def build_guide_page(guide, tag):
         if photo_path:
             fname = os.path.basename(photo_path)
             shutil.copyfile(photo_path, os.path.join(IMG_DIR, fname))
-            img_html = f'<img src="/images/{fname}" alt="{item["name"]}" loading="lazy">'
+            img_html = f'<img src="{SITE_URL}/images/{fname}" alt="{item["name"]}" loading="lazy">'
         rows.append(f"""
         <div class="item">
           {img_html}
@@ -133,7 +133,7 @@ def build_guide_page(guide, tag):
   {disclosure_html()}
   {"".join(rows)}
 </main>
-<footer>{SITE_NAME} &middot; <a href="/">More gift guides</a></footer>
+<footer>{SITE_NAME} &middot; <a href="{SITE_URL}/">More gift guides</a></footer>
 </body>
 </html>
 """
@@ -141,7 +141,7 @@ def build_guide_page(guide, tag):
 
 def build_home_page():
     cards = "\n".join(
-        f'<a class="guide-card" href="/guides/{gu["slug"]}.html"><h2>{gu["title"]}</h2><p>{gu["meta_description"]}</p></a>'
+        f'<a class="guide-card" href="{SITE_URL}/guides/{gu["slug"]}.html"><h2>{gu["title"]}</h2><p>{gu["meta_description"]}</p></a>'
         for gu in g.GUIDES
     )
     return f"""<!doctype html>
