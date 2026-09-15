@@ -8,6 +8,7 @@ Each guide gets its own page (docs/guides/<slug>.html) with proper SEO meta
 tags, plus a homepage (docs/index.html) listing every guide, a sitemap.xml,
 and robots.txt. Run this any time GUIDES changes.
 """
+import json
 import os
 import shutil
 import urllib.parse
@@ -77,7 +78,26 @@ def load_env():
     return env
 
 
+def load_product_links():
+    path = os.path.join(SCRIPT_DIR, "product_links.json")
+    if os.path.exists(path):
+        with open(path) as f:
+            return json.load(f)
+    return {}
+
+
+PRODUCT_LINKS = load_product_links()
+
+
 def amazon_url(item, tag):
+    """Direct product-page link when we've resolved a real ASIN for this
+    item (see product_links.json, built by resolving each generic item
+    description against a real Amazon listing) - falls back to a search
+    link only for items not yet resolved, since a search-results page reads
+    as an obvious giveaway that no one actually picked this product."""
+    link = PRODUCT_LINKS.get(item)
+    if link:
+        return f"{link['url']}?tag={tag}"
     return f"https://www.amazon.com/s?k={urllib.parse.quote_plus(item)}&tag={tag}"
 
 

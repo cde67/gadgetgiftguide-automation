@@ -1,0 +1,467 @@
+{
+  "Wireless charging pad": {
+    "asin": "B0872RLX6Z",
+    "url": "https://www.amazon.com/dp/B0872RLX6Z",
+    "matched_title": "Amazon Basics Wireless Charger, 15W Qi Certified Wireless Charging Pad with USB Cable"
+  },
+  "Bluetooth tracker tile": {
+    "asin": "B09998MBFM",
+    "url": "https://www.amazon.com/dp/B09998MBFM",
+    "matched_title": "Tile Mate (2022) 1-Pack, Black"
+  },
+  "Portable phone power bank": {
+    "asin": "B0DWMS2VRH",
+    "url": "https://www.amazon.com/dp/B0DWMS2VRH",
+    "matched_title": "OHOVIV Portable Charger Power Bank 50000mAh,4 Built-in Cables Battery Pack, 22.5W Fast-Charge"
+  },
+  "USB-C multiport adapter": {
+    "asin": "B09NZNH49P",
+    "url": "https://www.amazon.com/dp/B09NZNH49P",
+    "matched_title": "StarTech USB-C Multiport Adapter, 4K HDMI or VGA, 100W PD, GbE, microSD"
+  },
+  "Compact Bluetooth speaker": {
+    "asin": "B08YF1T4SW",
+    "url": "https://www.amazon.com/dp/B08YF1T4SW",
+    "matched_title": "Sony - Compact & Portable Waterproof Wireless Bluetooth Speaker with Extra BASS - Black"
+  },
+  "Smart LED light strip": {
+    "asin": "B098JD9JGR",
+    "url": "https://www.amazon.com/dp/B098JD9JGR",
+    "matched_title": "Govee Smart RGB LED Strip Lights 65.6ft, Work with Alexa Google Assistant"
+  },
+  "Cable organizer clips": {
+    "asin": "B08CCSLGHD",
+    "url": "https://www.amazon.com/dp/B08CCSLGHD",
+    "matched_title": "50Pcs Self Adhesive Cable Management Clips, Cable Organizers Wire Clips Cord Holder"
+  },
+  "Webcam privacy cover": {
+    "asin": "B0795WM36G",
+    "url": "https://www.amazon.com/dp/B0795WM36G",
+    "matched_title": "TechPrivacy Webcam Cover (3 Pack)"
+  },
+  "Mini tripod for phone": {
+    "asin": "B0D972MDGP",
+    "url": "https://www.amazon.com/dp/B0D972MDGP",
+    "matched_title": "TriFlex Mini Tripod for Phone - Small Flexible Tripod for iPhone and Android with Remote"
+  },
+  "Wireless earbuds case keychain": {
+    "asin": "B09R5H8Z13",
+    "url": "https://www.amazon.com/dp/B09R5H8Z13",
+    "matched_title": "ban.do Hold It! Wireless Earbuds Case for AirPods and AirPods Pro, Cute Keychain Cover"
+  },
+  "Portable mini projector": {
+    "asin": "B0DHJJSZN6",
+    "url": "https://www.amazon.com/dp/B0DHJJSZN6",
+    "matched_title": "Mini Projector with WiFi and Bluetooth, 1080P Portable Movie Projector with 500 ANSI Lumens"
+  },
+  "Smart plug": {
+    "asin": "B0DG2CRTBK",
+    "url": "https://www.amazon.com/dp/B0DG2CRTBK",
+    "matched_title": "GHome Smart Plug, WiFi Smart Plugs Work with Alexa and Google Home, Smart Outlet Timer"
+  },
+  "Laptop stand riser": {
+    "asin": "B009VFBQKS",
+    "url": "https://www.amazon.com/dp/B009VFBQKS",
+    "matched_title": "Magma 75552 Laptop Stand Riser (Red)"
+  },
+  "Phone camera lens kit": {
+    "asin": "B076V97H6V",
+    "url": "https://www.amazon.com/dp/B076V97H6V",
+    "matched_title": "Phone Camera Lens Kit, 9 in 1 Zoom Universal Telephoto Lens+198° Fisheye lens + Wide Angle"
+  },
+  "Digital luggage scale": {
+    "asin": "B0FH2L8YLW",
+    "url": "https://www.amazon.com/dp/B0FH2L8YLW",
+    "matched_title": "iHome Digital Luggage Scale - 110lbs Portable Suitcase Scale with LCD Display"
+  },
+  "Monitor riser with storage": {
+    "asin": "B0CL4XVJSK",
+    "url": "https://www.amazon.com/dp/B0CL4XVJSK",
+    "matched_title": "Dual Monitor Stand Riser w/ Drawer & Metal Leg, Large Computer Monitor Riser w/ Storage"
+  },
+  "Ergonomic wrist rest": {
+    "asin": "B094DYBP8B",
+    "url": "https://www.amazon.com/dp/B094DYBP8B",
+    "matched_title": "Razer Ergonomic Wrist Rest for Mini (60%) Keyboards | Plush Leatherette Memory Foam Cushion"
+  },
+  "Desk cable management box": {
+    "asin": "B0F47ZLBBB",
+    "url": "https://www.amazon.com/dp/B0F47ZLBBB",
+    "matched_title": "Under Desk Cable Management Box 25.3 Inch – Clamp-Mounted Cable Organizer Tray"
+  },
+  "Adjustable laptop stand": {
+    "asin": "B0BJZ9BRCP",
+    "url": "https://www.amazon.com/dp/B0BJZ9BRCP",
+    "matched_title": "Adjustable Laptop Stand for Desk, Aluminum Portable Laptop Stand, Lightweight 500g, Foldable"
+  },
+  "Ring light for video calls": {
+    "asin": "B086GX8P2Q",
+    "url": "https://www.amazon.com/dp/B086GX8P2Q",
+    "matched_title": "Zoom Light for Computer, Adjustable Desk Ring Light for Video Calls, Circle Light with Stand"
+  },
+  "Desk pad mouse mat": {
+    "asin": "B01FTQUC2K",
+    "url": "https://www.amazon.com/dp/B01FTQUC2K",
+    "matched_title": "GGLTECK Large Gaming Mouse Pad XXL/Extended Mat Desk Pad 36\"x12\" Mousepad"
+  },
+  "Under-desk footrest": {
+    "asin": "B09QKW7V55",
+    "url": "https://www.amazon.com/dp/B09QKW7V55",
+    "matched_title": "Under Desk Footrest, Ergonomic Footrest with Massage Rollers for Home Office"
+  },
+  "USB desk fan": {
+    "asin": "B0C27NGKCV",
+    "url": "https://www.amazon.com/dp/B0C27NGKCV",
+    "matched_title": "Koonie USB Desk Fan, Strong Wind Ultra Quiet Small Mini Fan | 220° Tilt Folding & 3 Speeds"
+  },
+  "Noise-cancelling desktop microphone": {
+    "asin": "B00CUEDFZQ",
+    "url": "https://www.amazon.com/dp/B00CUEDFZQ",
+    "matched_title": "Cyber Acoustics USB Plug & Play Desktop Unidirectional Noise Cancelling Computer Microphone"
+  },
+  "Multi-device charging stand": {
+    "asin": "B0BPXZWCBG",
+    "url": "https://www.amazon.com/dp/B0BPXZWCBG",
+    "matched_title": "Charging Station for Multiple Devices, 60W 6 Port Charger Station with 7 Mixed Charging Cables"
+  },
+  "Desktop whiteboard planner": {
+    "asin": "B0CSP5G747",
+    "url": "https://www.amazon.com/dp/B0CSP5G747",
+    "matched_title": "Desktop Whiteboard 12\" x 6\" Desktop Weekly Planner Whiteboard-Dry Erase Board"
+  },
+  "Adjustable monitor arm": {
+    "asin": "B0FQM6QB48",
+    "url": "https://www.amazon.com/dp/B0FQM6QB48",
+    "matched_title": "ErGear Single Monitor Arm, Fully Adjustable Monitor Mount for 13–34 Inch Screens"
+  },
+  "Manual coffee grinder": {
+    "asin": "B0B1MJYQNR",
+    "url": "https://www.amazon.com/dp/B0B1MJYQNR",
+    "matched_title": "SimCoker Manual Coffee Grinder, Ceramic Burr, 20g Capacity, Adjustable Grind Setting"
+  },
+  "Pour-over coffee dripper": {
+    "asin": "B096M4D182",
+    "url": "https://www.amazon.com/dp/B096M4D182",
+    "matched_title": "Laiyeoy Pour Over Coffee Dripper, Slow Drip Paperless Coffee Filter, Stainless Steel"
+  },
+  "Milk frother handheld": {
+    "asin": "B0CFWX6DWH",
+    "url": "https://www.amazon.com/dp/B0CFWX6DWH",
+    "matched_title": "Rechargeable Milk Frother Handheld with 2 Attachments - Electric Whisk Drink Foam Mixer"
+  },
+  "Insulated travel coffee tumbler": {
+    "asin": "B07STJ9PTF",
+    "url": "https://www.amazon.com/dp/B07STJ9PTF",
+    "matched_title": "SUNWILL Travel Coffee Tumbler 20 oz, Insulated Mug with Lid, Stainless Steel Cup"
+  },
+  "Coffee bean storage canister": {
+    "asin": "B0DFTFKYNS",
+    "url": "https://www.amazon.com/dp/B0DFTFKYNS",
+    "matched_title": "IRCtek Coffee Bean Storage Container with One-way Valve Airtight Lid Date Tracker"
+  },
+  "Digital coffee scale": {
+    "asin": "B0CM3Q91MH",
+    "url": "https://www.amazon.com/dp/B0CM3Q91MH",
+    "matched_title": "IKAPE Digital Coffee Scale with Timer, 2kg/0.1g High Precision Rechargeable Drip Espresso Scale"
+  },
+  "Reusable coffee filter": {
+    "asin": "B00F8LMKYA",
+    "url": "https://www.amazon.com/dp/B00F8LMKYA",
+    "matched_title": "CoffeeSock 'The Original' Reusable 100% Organic Cotton Coffee Filters - 2 pk Cone #4"
+  },
+  "Cold brew maker pitcher": {
+    "asin": "B07NDXTT1Y",
+    "url": "https://www.amazon.com/dp/B07NDXTT1Y",
+    "matched_title": "Cold Brew Coffee Maker White - Glass Cold Brew Maker Pitcher 52 oz - Iced Coffee Maker"
+  },
+  "Espresso tamper set": {
+    "asin": "B072JWS563",
+    "url": "https://www.amazon.com/dp/B072JWS563",
+    "matched_title": "VIENESSO Barista Tamper Set - Espresso Stamp Made of Stainless Steel and Real Wood Handle"
+  },
+  "Coffee subscription gift card": {
+    "asin": "B0H24T2MLV",
+    "url": "https://www.amazon.com/dp/B0H24T2MLV",
+    "matched_title": "Monthly Single Origin Coffee Gift Subscription by Klatch Coffee"
+  },
+  "Smart plug outlet": {
+    "asin": "B0C9GJJBR9",
+    "url": "https://www.amazon.com/dp/B0C9GJJBR9",
+    "matched_title": "EIGHTREE Smart Plug 5GHz & 2.4GHz, 15A WiFi Smart Outlet Compatible with Alexa & Google Home"
+  },
+  "Smart light bulb color changing": {
+    "asin": "B07H3DPN1Q",
+    "url": "https://www.amazon.com/dp/B07H3DPN1Q",
+    "matched_title": "Kingwin Color Changing Smart Light Bulbs, RGB Color Changing LED Lamp Fixtures"
+  },
+  "Smart video doorbell": {
+    "asin": "B0DM5YL9CJ",
+    "url": "https://www.amazon.com/dp/B0DM5YL9CJ",
+    "matched_title": "GridTera Smart Video Doorbell Camera Wireless, AI Human Detection and Instant Alerts"
+  },
+  "Smart motion sensor light": {
+    "asin": "B06Y2ZQZBG",
+    "url": "https://www.amazon.com/dp/B06Y2ZQZBG",
+    "matched_title": "eSenlite Smart Motion Sensor Light, Outdoor or Indoor Ceiling/Wall Mounted AC Powered LED"
+  },
+  "Smart thermostat sensor": {
+    "asin": "B07NQVWRR3",
+    "url": "https://www.amazon.com/dp/B07NQVWRR3",
+    "matched_title": "ecobee SmartSensor 2-Pack - Temperature & Occupancy Sensor, Compatible with ecobee Thermostats"
+  },
+  "Smart water leak detector": {
+    "asin": "B0DQLFC3Q6",
+    "url": "https://www.amazon.com/dp/B0DQLFC3Q6",
+    "matched_title": "GoveeLife Upgraded Smart Water Leak Detector 1s with High Alarm, 5 Pack, 1804ft Range"
+  },
+  "Smart power strip": {
+    "asin": "B076VRH9WP",
+    "url": "https://www.amazon.com/dp/B076VRH9WP",
+    "matched_title": "Smart Power Strip, WiFi Surge Protector, Voice Control with Alexa & Google Home, 4 AC Outlets"
+  },
+  "Smart smoke detector": {
+    "asin": "B0C88TKBKC",
+    "url": "https://www.amazon.com/dp/B0C88TKBKC",
+    "matched_title": "WiFi Smoke Detector Fire Alarm: Smart Smoke Alarm with App Notifications and Alarm Records"
+  },
+  "Smart garage door controller": {
+    "asin": "B07VWNCR14",
+    "url": "https://www.amazon.com/dp/B07VWNCR14",
+    "matched_title": "MOES WiFi Smart Garage Door Opener Controller, Smart Life/Tuya APP Remote Monitor"
+  },
+  "Smart humidity sensor": {
+    "asin": "B0CDWWQPH8",
+    "url": "https://www.amazon.com/dp/B0CDWWQPH8",
+    "matched_title": "WiFi Hygrometer Thermometer Sensor: Smart Temperature Humidity Monitor with Remote Monitor"
+  },
+  "Retractable USB-C cable": {
+    "asin": "B0CZCWH87F",
+    "url": "https://www.amazon.com/dp/B0CZCWH87F",
+    "matched_title": "Baseus USB C to USB C Cable, 100W 6.6ft Retractable USB C Fast Charging Cable"
+  },
+  "Phone grip stand": {
+    "asin": "B07842DRG7",
+    "url": "https://www.amazon.com/dp/B07842DRG7",
+    "matched_title": "Cell Phone Grip and Stand: Universal Anti-Slip Handheld Elastic Finger Strap Holder with Kickstand"
+  },
+  "Mini Bluetooth tracker": {
+    "asin": "B0FQV1G9GN",
+    "url": "https://www.amazon.com/dp/B0FQV1G9GN",
+    "matched_title": "Mini Bluetooth Tracker for Android, Smart Key Finder & Item Locator, Compatible with Google Find"
+  },
+  "Screen cleaning kit": {
+    "asin": "B0919SNLRL",
+    "url": "https://www.amazon.com/dp/B0919SNLRL",
+    "matched_title": "Monster Screen Cleaner Kit with Microfiber Cloth, 60 mL Screen Cleaner Spray for TVs, Monitors"
+  },
+  "Earbud cleaning pen": {
+    "asin": "B0C156BQ8X",
+    "url": "https://www.amazon.com/dp/B0C156BQ8X",
+    "matched_title": "Betron Earbuds Cleaning Pen, Cleaner Kit for Airpods, Wireless Earphones and in-Ear Headphones"
+  },
+  "Portable SD card reader": {
+    "asin": "B088FGM6KK",
+    "url": "https://www.amazon.com/dp/B088FGM6KK",
+    "matched_title": "SD Card Reader for iPhone/ipad/Android/Mac/Computer/Camera, 4 in1 Micro SD Card Reader"
+  },
+  "LED keychain flashlight": {
+    "asin": "B0CM9MNS53",
+    "url": "https://www.amazon.com/dp/B0CM9MNS53",
+    "matched_title": "Daemson Mini LED Keychain Flashlight, Ultra Bright Tiny Flashlight (8PCS)"
+  },
+  "Phone lens cleaning cloth set": {
+    "asin": "B08CKG9SBC",
+    "url": "https://www.amazon.com/dp/B08CKG9SBC",
+    "matched_title": "12 Pack Microfiber Lens Cleaning Cloths – Ultra-Soft, Scratch-Free Eyeglass Cloths"
+  },
+  "Mini power bank keychain": {
+    "asin": "B0C999YJX7",
+    "url": "https://www.amazon.com/dp/B0C999YJX7",
+    "matched_title": "PocketPower: Keychain Mini Emergency Power Pod for Samsung - 100% Full Capacity Fast Charging"
+  },
+  "Cable bite phone charm": {
+    "asin": "B073TWM8YC",
+    "url": "https://www.amazon.com/dp/B073TWM8YC",
+    "matched_title": "Panda Cable Bite"
+  },
+  "Universal travel adapter": {
+    "asin": "B003YW2IKQ",
+    "url": "https://www.amazon.com/dp/B003YW2IKQ",
+    "matched_title": "Travel Adapter, Universal All-In-One Worldwide International Travel Plug Converter"
+  },
+  "Packing cubes set": {
+    "asin": "B0BK7137Y5",
+    "url": "https://www.amazon.com/dp/B0BK7137Y5",
+    "matched_title": "Beeyond Compression Packing Cubes Set - 6 Pieces for Travel and Luggage Organization"
+  },
+  "Neck pillow travel": {
+    "asin": "B07SRRQS5B",
+    "url": "https://www.amazon.com/dp/B07SRRQS5B",
+    "matched_title": "napfun Neck Pillow for Traveling, Upgraded Travel Neck Pillow for Airplane, Memory Foam"
+  },
+  "Portable luggage tracker": {
+    "asin": "B0C8TGXFCK",
+    "url": "https://www.amazon.com/dp/B0C8TGXFCK",
+    "matched_title": "Aircawin Mini GPS Tracker, Key Item Finder Locator, Portable Anti-Lost Bluetooth Tag Item Tracker"
+  },
+  "Compression packing bags": {
+    "asin": "B096X82Q7K",
+    "url": "https://www.amazon.com/dp/B096X82Q7K",
+    "matched_title": "15 Compression Bags for Travel, Roll Up Space Saver Bags for Travel, Saves 80% of Storage Space"
+  },
+  "Noise-isolating travel earplugs": {
+    "asin": "B0H1ZGPF6C",
+    "url": "https://www.amazon.com/dp/B0H1ZGPF6C",
+    "matched_title": "Soft Silicone Noise Isolating Ear Plugs Reusable Noise Cancelling Earplugs, Perfect for Sleep Travel"
+  },
+  "Portable door lock travel": {
+    "asin": "B00GMPFCNC",
+    "url": "https://www.amazon.com/dp/B00GMPFCNC",
+    "matched_title": "Calslock Portable Door Lock for Travel, Hotel, Motel, Apartment Security Device, Gold"
+  },
+  "TSA-approved travel bottles": {
+    "asin": "B0BZWMJM2F",
+    "url": "https://www.amazon.com/dp/B0BZWMJM2F",
+    "matched_title": "18pack Travel Bottles for Toiletries, TSA Approved Silicone Travel Containers for Toiletries"
+  },
+  "Digital luggage scale travel": {
+    "asin": "B0CTKFSTBT",
+    "url": "https://www.amazon.com/dp/B0CTKFSTBT",
+    "matched_title": "2 Pcs-Black Travel Digital Luggage Scale - Portable Baggage Scale - Suitcases Weight Scales"
+  },
+  "Portable charger power bank": {
+    "asin": "B0GH75LWKN",
+    "url": "https://www.amazon.com/dp/B0GH75LWKN",
+    "matched_title": "IAPOS Portable Charger 60000mAh, 5-Device Charging Power Bank Battery Pack, 22.5W PD Fast Charge"
+  },
+  "Travel document organizer": {
+    "asin": "B0D94Z2NBB",
+    "url": "https://www.amazon.com/dp/B0D94Z2NBB",
+    "matched_title": "Travel Document Organizer with AirTag Holder - RFID Blocking Passport Wallet Case Family Holder"
+  },
+  "Collapsible travel water bottle": {
+    "asin": "B0CPKGPM32",
+    "url": "https://www.amazon.com/dp/B0CPKGPM32",
+    "matched_title": "HYDAWAY 17oz Travel Collapsible Water Bottle - BPA-Free, Leakproof, Lightweight, Reusable"
+  },
+  "Portable blackout curtain travel": {
+    "asin": "B0CNNZS3TV",
+    "url": "https://www.amazon.com/dp/B0CNNZS3TV",
+    "matched_title": "Portable Blackout Curtain, Travel Blackout Curtains, Removable Window Cover Easy to Install"
+  },
+  "Anti-theft travel backpack": {
+    "asin": "B01MR6LNZZ",
+    "url": "https://www.amazon.com/dp/B01MR6LNZZ",
+    "matched_title": "oscaurt Anti Theft Backpack 15.6 Inch Laptop Travel Backpack with Hidden Zipper and USB Charging"
+  },
+  "Herb stripper tool": {
+    "asin": "B0F4WKJ5BM",
+    "url": "https://www.amazon.com/dp/B0F4WKJ5BM",
+    "matched_title": "AMZNEVO Herb Stripper Tool – Natural Wood Leaf Remover with 8 Hole Sizes, Laser Engraved"
+  },
+  "Garlic press rocker": {
+    "asin": "B0CWPT8YGL",
+    "url": "https://www.amazon.com/dp/B0CWPT8YGL",
+    "matched_title": "Zulay Kitchen Stainless Steel Garlic Press Rocker Set - Premium Garlic Mincer Garlic Crusher"
+  },
+  "Silicone food storage bags": {
+    "asin": "B087XBR564",
+    "url": "https://www.amazon.com/dp/B087XBR564",
+    "matched_title": "Stasher Premium Reusable Silicone Food Storage Bags, 4-Pack, Clear, Food-Safe Silicone"
+  },
+  "Avocado slicer tool": {
+    "asin": "B084XBBY5C",
+    "url": "https://www.amazon.com/dp/B084XBBY5C",
+    "matched_title": "Avocado Slicer Tool - 3.2 x 6.3 Inches Avocado Cuber Tool with Ergonomic Handle"
+  },
+  "Digital kitchen scale": {
+    "asin": "B0775DBSZG",
+    "url": "https://www.amazon.com/dp/B0775DBSZG",
+    "matched_title": "Digital Kitchen Scale for Cooking & Baking, Compact Food Scale with Digital Display"
+  },
+  "Onion chopper handheld": {
+    "asin": "B01KFD4HG4",
+    "url": "https://www.amazon.com/dp/B01KFD4HG4",
+    "matched_title": "Topulors Manual Food Chopper Hand-Powered Food Chopper Compact Handheld Onion Chopper"
+  },
+  "Magnetic measuring spoons": {
+    "asin": "B07PT4VBCK",
+    "url": "https://www.amazon.com/dp/B07PT4VBCK",
+    "matched_title": "Magnetic Measuring Spoons Set Stainless Steel Dual Sided Stackable Teaspoon, Set of 6"
+  },
+  "Silicone stretch lids": {
+    "asin": "B09L91GJ3S",
+    "url": "https://www.amazon.com/dp/B09L91GJ3S",
+    "matched_title": "altCookingHub Silicone Stretch Lids - 6-Pack, 4.5 Inch Reusable Lids, BPA Free, Leakproof"
+  },
+  "Compact jar opener": {
+    "asin": "B089SNZD4N",
+    "url": "https://www.amazon.com/dp/B089SNZD4N",
+    "matched_title": "INSTACAN Electric Jar Opener for Seniors with Arthritis, One Touch Automatic Jar Opener"
+  },
+  "Collapsible colander": {
+    "asin": "B06XRBFTNH",
+    "url": "https://www.amazon.com/dp/B06XRBFTNH",
+    "matched_title": "Qimh Colander collapsible, Colander Strainer Over The Sink Vegetable Fruit Strainer Basket"
+  },
+  "Salad spinner compact": {
+    "asin": "B0H2K4861K",
+    "url": "https://www.amazon.com/dp/B0H2K4861K",
+    "matched_title": "Compact Salad Spinner for Efficient Drying of Vegetables and Fruits - 3L Capacity"
+  },
+  "Silicone baking mat set": {
+    "asin": "B07NYMWZXQ",
+    "url": "https://www.amazon.com/dp/B07NYMWZXQ",
+    "matched_title": "Anolon Advanced Bakeware Silicone Baking Mat Set, 2-Piece, Clear with Gray Border"
+  },
+  "Controller charging dock": {
+    "asin": "B08P1FD8TC",
+    "url": "https://www.amazon.com/dp/B08P1FD8TC",
+    "matched_title": "Controller Charging Dock for Switch Pro & Switch 2 Pro Controller, PS5 Controller, Xbox Series X|S"
+  },
+  "Gaming mouse pad extended": {
+    "asin": "B087P6HQDT",
+    "url": "https://www.amazon.com/dp/B087P6HQDT",
+    "matched_title": "Large Extended Gaming Mouse Pad with Stitched Edges (31.5X15.7In) Mousepad, Non-Slip"
+  },
+  "RGB LED light strip gaming": {
+    "asin": "B07QP8ZVYD",
+    "url": "https://www.amazon.com/dp/B07QP8ZVYD",
+    "matched_title": "Speclux PC RGB Strip - 3pcs 5050 Magnetic PC LED Strip, Computer Case LED Light Strips"
+  },
+  "Headset stand": {
+    "asin": "B0734PSWTC",
+    "url": "https://www.amazon.com/dp/B0734PSWTC",
+    "matched_title": "Headphone Stand Headset Holder Gaming Headset Holder with Aluminum Supporting Bar"
+  },
+  "Controller thumb grips": {
+    "asin": "B092HMVNVS",
+    "url": "https://www.amazon.com/dp/B092HMVNVS",
+    "matched_title": "ProGAMR PS 5 Controller Thumb Grips - 4 Pcs Controller Grips Compatible with PS 5 & PS4 DualSense"
+  },
+  "Cable management sleeve": {
+    "asin": "B07Y23TMZ4",
+    "url": "https://www.amazon.com/dp/B07Y23TMZ4",
+    "matched_title": "(4) Cable Management Sleeves - Wire Organizer Cable Sleeves and Wrapper Cord Hider"
+  },
+  "Cooling pad for laptop gaming": {
+    "asin": "B085DPTFJM",
+    "url": "https://www.amazon.com/dp/B085DPTFJM",
+    "matched_title": "AFMAT FC05 Gaming Laptop Cooling Pad, 4500RPM Laptop Cooling Pad with Turbo-Fans, USB Ports"
+  },
+  "Webcam for streaming": {
+    "asin": "B07VL7BNLZ",
+    "url": "https://www.amazon.com/dp/B07VL7BNLZ",
+    "matched_title": "ZIQIAN HD 1080p Webcam with Microphone, USB Camera for PC & Laptop, 110°FOV Wide Angle"
+  },
+  "Gaming chair cushion": {
+    "asin": "B0GH5KY4K6",
+    "url": "https://www.amazon.com/dp/B0GH5KY4K6",
+    "matched_title": "PAROLL Gaming Chair Seat Cushion Pad for Men Gamer, Black, Memory Foam"
+  },
+  "USB microphone for gaming": {
+    "asin": "B0FFN48CSL",
+    "url": "https://www.amazon.com/dp/B0FFN48CSL",
+    "matched_title": "USB Microphone for PC Gaming: Condenser Microphone RGB for Gamer with Stand Mic"
+  }
+}
