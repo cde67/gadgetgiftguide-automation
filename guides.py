@@ -202,4 +202,54 @@ GUIDES = [
             {"name": "USB microphone for gaming", "blurb": "Clearer voice chat and a real upgrade for anyone starting to record gameplay."},
         ],
     },
+    {
+        "slug": "dorm-room-gadgets-for-college-students",
+        "title": "13 Dorm Room Gadgets College Students Actually Use",
+        "meta_description": "Practical, dorm-friendly gadgets for college students: small-space solutions, better sleep, and fixes for shared-room annoyances. Most are under $40.",
+        "intro": (
+            "Most dorm gift lists are padded with novelty items that end up in a drawer by October. "
+            "This one focuses on the real constraints of dorm life: one outlet across the room, a "
+            "roommate on a different sleep schedule, and a desk the size of a cafeteria tray. "
+            "Check the school's banned-items list before buying anything that heats up."
+        ),
+        "items": [
+            {"name": "Clip-on desk lamp with USB port", "blurb": "Clamps onto a bed frame or shelf when there's no room for a lamp base, and charges a phone at the same time."},
+            {"name": "Surge protector power strip with long cord", "blurb": "Dorm outlets are never where the bed is, and a 10-foot cord fixes that without daisy-chaining cheap extension cords."},
+            {"name": "Contoured sleep mask", "blurb": "Blocks a roommate's late-night laptop glow without pressing on the eyes like flat masks do."},
+            {"name": "White noise machine compact", "blurb": "Masks hallway noise and roommate snoring far better than a phone app that drains the battery overnight."},
+            {"name": "Bedside caddy organizer", "blurb": "Lofted beds have no nightstand, so this keeps a phone, glasses and water within reach at the top bunk."},
+            {"name": "Mini fridge thermometer", "blurb": "Cheap dorm fridges run warm or freeze everything, and this shows which one before food goes bad."},
+            {"name": "Electric kettle with auto shutoff", "blurb": "Handles tea, instant oatmeal and ramen, and the auto shutoff is usually what makes it dorm-approved."},
+            {"name": "Portable phone charger power bank", "blurb": "Gets a student through a full day of classes, library sessions and late-night bus rides."},
+            {"name": "Noise cancelling earbuds budget", "blurb": "Turns a loud common room or library into usable study space, which matters more than any desk accessory."},
+            {"name": "Over-the-door hooks set", "blurb": "Adds towel and coat storage without drilling holes that cost the security deposit."},
+            {"name": "Shower caddy tote", "blurb": "Shared bathrooms mean carrying everything back and forth, and a draining caddy keeps it from getting gross."},
+            {"name": "Laptop stand foldable", "blurb": "Raises the screen on a cramped desk and folds flat into a backpack for the library."},
+            {"name": "Rechargeable motion sensor closet lights", "blurb": "Stick under the bed or in the closet so nobody has to flip on the overhead light at 2am."},
+        ],
+    },
+    {
+        "slug": "easy-to-use-tech-gifts-for-grandparents",
+        "title": "11 Easy-to-Use Tech Gifts for Grandparents (No Setup Headaches)",
+        "meta_description": "Tech gifts for grandparents that are simple to set up and genuinely useful day to day, picked to avoid confusing apps, tiny buttons and subscription traps.",
+        "intro": (
+            "The best tech gift for a grandparent is one they'll still be using in six months without "
+            "calling you for help. Every pick here works with minimal setup, has large or simple "
+            "controls, and solves an everyday problem like reading small print, missing calls or "
+            "keeping up with family photos. We skipped anything that needs an app account just to turn on."
+        ),
+        "items": [
+            {"name": "Digital photo frame with email upload", "blurb": "Family can send photos straight to it from anywhere, so the grandparent gets new pictures without touching a thing."},
+            {"name": "Big button amplified phone", "blurb": "Louder ringer, bigger buttons and adjustable call volume make landline calls much less frustrating."},
+            {"name": "LED lighted magnifying glass", "blurb": "Makes medication labels, menus and recipe cards readable without hunting for the right reading glasses."},
+            {"name": "Day clock with large display", "blurb": "Shows the full day and date in plain words, which helps anyone who loses track of the day in retirement."},
+            {"name": "Item tracker tag keychain", "blurb": "Clip it to keys or a wallet and a misplaced item can be found by sound instead of a half-hour search."},
+            {"name": "Automatic pill dispenser with alarm", "blurb": "Dispenses the right dose at the right time and beeps, taking the guesswork out of a complicated medication schedule."},
+            {"name": "Wireless TV headphones for seniors", "blurb": "Lets them turn the TV up as loud as they need without blasting everyone else out of the room."},
+            {"name": "Plug-in motion sensor night lights", "blurb": "Lights the path to the bathroom automatically at night, a small thing that genuinely reduces fall risk."},
+            {"name": "Simplified universal TV remote", "blurb": "Strips the remote down to the handful of buttons they actually use, so inputs stop getting changed by accident."},
+            {"name": "Heated throw blanket with auto shutoff", "blurb": "Warm and comforting on a cold evening, and the auto shutoff removes the worry about leaving it on."},
+            {"name": "Adjustable tablet stand", "blurb": "Holds a tablet at eye level for video calls with family, so they're not staring up someone's nose the whole call."},
+        ],
+    },
 ]
