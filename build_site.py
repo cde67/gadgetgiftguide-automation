@@ -380,7 +380,7 @@ def footer_html(today, dates):
 {col("By budget &amp; occasion", budget_only)}
 {col("By recipient &amp; interest", everything_else)}
 </div>
-<div class="legal">As an Amazon Associate, {SITE_NAME} earns from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. Prices and availability are set by the retailer and change often. &copy; {today.year} {SITE_NAME}.</div>
+<div class="legal">As an Amazon Associate I earn from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. Prices and availability are set by the retailer and change often. &copy; {today.year} {SITE_NAME}.</div>
 </div></footer>"""
 
 
@@ -388,7 +388,7 @@ def disclosure_html():
     return (
         '<aside class="disclosure" aria-label="Affiliate disclosure"><strong>Affiliate disclosure:</strong> '
         "We may earn a commission when you buy through links on this page, at no extra cost to you. "
-        "As an Amazon Associate we earn from qualifying purchases. This never affects which products we pick. "
+        "As an Amazon Associate I earn from qualifying purchases. This never affects which products we pick. "
         '<a href="/about#disclosure">How we make money</a></aside>'
     )
 
@@ -702,10 +702,11 @@ ABOUT_BODY = f"""
 <li>We update guides when products change or better options become widely available. Each guide shows the date it was last updated.</li>
 </ul>
 <h2 id="disclosure">Affiliate disclosure</h2>
-<p>{SITE_NAME} is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate we earn from qualifying purchases.</p>
+<p>{SITE_NAME} is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate I earn from qualifying purchases.</p>
 <p>That means if you click a link on this site and buy something, we may earn a small commission at no extra cost to you. Links to Amazon are marked as sponsored links. Commissions help keep the site running; they never determine which products we include, and no brand pays to be listed.</p>
 <h2 id="privacy">Privacy</h2>
-<p>We use Cloudflare Web Analytics to count page views. It doesn't use cookies or track you across other sites. When you click through to Amazon, Amazon's own privacy policy applies on their site.</p>
+<p>We use Cloudflare Web Analytics to count page views. It doesn't use cookies or track you across other sites.</p>
+<p>When you click through to Amazon, third parties, including Amazon and other advertisers, may serve content and ads, collect information directly from you, and place or read cookies, pixels and similar technologies in your browser (Amazon uses them to know a visit came from this site). Their own privacy policies apply to that information.</p>
 """
 
 
