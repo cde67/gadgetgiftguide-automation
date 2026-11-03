@@ -660,4 +660,69 @@ GUIDES = [
             {"name": "Rechargeable motion sensor closet lights", "blurb": "Stick under the bed or in the closet so nobody has to flip on the overhead light at 2am."},
         ],
     },
+    {
+        "slug": "practical-gifts-for-first-time-homeowners",
+        "title": "{count} Practical Gifts for First-Time Homeowners ({year})",
+        "meta_description": "Useful housewarming gifts for first-time homeowners: the tools and gadgets that handle the small repairs and surprises nobody warns new buyers about.",
+        "intro": (
+            "New homeowners don't need another candle or a doormat with a pun on it. What they "
+            "actually lack is the stuff a landlord used to handle: finding a stud, catching a leak "
+            "early, resetting a breaker in the dark. Every pick here earns its place in the first "
+            "year of owning a home, and most cost less than a nice bottle of wine."
+        ),
+        "groups": ["recipient"],
+        "nav_label": "New homeowners",
+        "published": "2026-11-01",
+        "tips": [
+            "Ask whether they bought a house or a condo first: condo owners rarely need outdoor or yard tools.",
+            "If they're renovating, skip decor and lean toward tools - their style will change once the walls are done.",
+        ],
+        "items": [
+            {"name": "Cordless drill driver kit", "blurb": "Hanging curtains, assembling furniture and tightening loose hinges all happen in the first month, and borrowing a drill every time gets old fast."},
+            {"name": "Electronic stud finder", "blurb": "Mounting a TV or heavy shelf into drywall alone is how anchors pull out, and this takes the guesswork out of finding something solid."},
+            {"name": "Water leak detector alarm", "label": "Water leak sensor alarm", "blurb": "Placed under a sink or next to the water heater, it catches a slow drip before it becomes a ruined floor and an insurance claim."},
+            {"name": "Rechargeable LED work light", "blurb": "Basements, crawl spaces and the back of the breaker panel are always dark, and a magnetic work light frees up both hands."},
+            {"name": "Precision screwdriver and bit set", "blurb": "Covers the odd screws on smoke detectors, outlet covers and battery compartments that a basic screwdriver can't reach."},
+            {"name": "Digital laser measure", "blurb": "Measuring rooms for rugs, furniture or paint becomes a one-person, ten-second job instead of a tape measure wrestling match."},
+            {"name": "Non-contact voltage tester", "blurb": "A cheap, simple way to confirm a wire is actually dead before swapping a light fixture or outlet.", "note": "It's a safety check, not a substitute for turning off the breaker."},
+            {"name": "Plunger and drain snake set", "label": "Toilet plunger and drain auger set", "blurb": "Nobody thinks to buy one until the moment they urgently need it, which is exactly why it makes a smart gift."},
+            {"name": "Smart plug with energy monitoring", "blurb": "Shows what that old fridge in the garage or the space heater actually costs to run, which is eye-opening once the utility bills arrive in their name."},
+            {"name": "Indoor humidity monitor", "label": "Digital hygrometer", "blurb": "Damp basements and dry winter air both cause problems in a house, and this shows which one they're dealing with."},
+            {"name": "Fire extinguisher for home kitchen", "label": "Home kitchen fire extinguisher", "blurb": "Many first homes come without one, and it's the kind of thing people mean to buy for years and never do."},
+            {"name": "Label maker handheld", "label": "Handheld label maker", "blurb": "Labeling the breaker panel and shutoff valves now saves a frantic guessing game during an emergency later."},
+            {"name": "Home maintenance log book", "blurb": "Tracking when the furnace filter was changed or the gutters were cleaned turns vague worry into a simple routine, and it helps at resale."},
+        ],
+    },
+    {
+        "slug": "practical-gifts-for-new-parents",
+        "title": "{count} Practical Gifts for New Parents That Actually Get Used ({year})",
+        "meta_description": "Gifts for new parents that help with the real problems of the first months: night feeds, sleep, keeping things clean and getting out of the house.",
+        "intro": (
+            "Baby registries cover the big stuff, and new parents end up with more tiny outfits than "
+            "the baby can wear. The gaps are usually the small things that make 3am feeds, constant "
+            "laundry and short-on-sleep days a little easier. These picks are for the parents "
+            "themselves as much as the baby."
+        ),
+        "groups": ["recipient"],
+        "nav_label": "New parents",
+        "published": "2026-11-01",
+        "tips": [
+            "Check the registry first so you don't duplicate something they already have.",
+            "For anything the baby will sleep in or near, stick to products that follow current safe sleep guidance.",
+        ],
+        "items": [
+            {"name": "Dimmable night light with timer", "blurb": "Gives just enough light for a diaper change or night feed without fully waking the baby, or the parent who's trying to get back to sleep."},
+            {"name": "Insulated water bottle with straw", "blurb": "Feeding sessions are long and one-handed, and a straw bottle that stays cold is something parents reach for constantly."},
+            {"name": "Bottle drying rack countertop", "label": "Countertop bottle drying rack", "blurb": "Bottles, pump parts and pacifiers pile up fast, and a dedicated rack keeps them off a dish towel and out of the way."},
+            {"name": "White noise machine for baby", "blurb": "Steady background sound helps cover household noise during naps, and a standalone machine frees up a parent's phone."},
+            {"name": "Diaper caddy organizer", "blurb": "Keeps diapers, wipes and cream portable so a change can happen on any couch or bed instead of only at the changing table."},
+            {"name": "Hands-free baby carrier wrap", "label": "Baby carrier wrap", "blurb": "Lets a parent keep a fussy baby close while still having two hands free for coffee, dishes or a walk around the block."},
+            {"name": "Digital forehead thermometer", "blurb": "Getting a reading on a sleeping or squirming baby is much easier without a probe, and it's a worry-saver at odd hours."},
+            {"name": "Diaper bag backpack", "blurb": "A backpack style keeps both hands free and is easier to share between parents than a shoulder bag."},
+            {"name": "Baby nail file electric", "label": "Electric baby nail trimmer", "blurb": "Tiny nails are nerve-wracking to clip, and a gentle filing tool makes it a less stressful two-minute job."},
+            {"name": "Stroller organizer with cup holder", "blurb": "Most strollers have nowhere to put a coffee, keys and a phone, and a clip-on organizer fixes that for every walk.", "note": "Check that it fits their stroller's handlebar style."},
+            {"name": "Meal delivery gift card", "label": "Meal delivery gift card", "blurb": "Not having to cook in the first weeks is the gift almost every new parent says they appreciated most."},
+            {"name": "Phone stand for nursing", "label": "Flexible phone holder", "blurb": "Holds a phone at eye level during long feeds so a parent can watch something or video call family without juggling."},
+        ],
+    },
 ]
